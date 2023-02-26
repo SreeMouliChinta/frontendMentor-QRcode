@@ -1,5 +1,9 @@
 # Frontend Mentor - QR code component
 
+Please check the below link to visit the LIVE PAGE of the Project:
+
+[GitHub Live Page - QR code component - Sree Mouli Chinta](https://sreemoulichinta.github.io/frontendMentor-QRcode/)
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
